@@ -3,13 +3,13 @@
 
 >引用库
 
-1.webpack    v5+
+1.webpack   v5+
 
 2.react 和react-dom   v17+ 
 
 3.react-router-dom  v5+
 
-4.redux 
+4.redux +redux-saga
 
 >实现功能模块
 
@@ -21,4 +21,4 @@
 
 4.动态配置嵌套路由
 
-5.api请求拦截，代理
+5.api请求拦截，代理 封装fetch
